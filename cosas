@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Bruno's world </title>
+</head>
+<body style="background-color: #7fc9b1; color: #333; font-family: Arial, sans-serif;">
+
+  <div style="background-color: #ffff; padding: 20px;">
+    <h1 style="font-family:'Verdana', sans-serif; text-align: center;"> Bruno's World </h1>
+  </div>
+
+
+ <ul>
+            <li><a href="#¿Quien soy?">¿Quien soy?</a></li>
+            <li><a href="#Mis Pasatiempos">Mis Pasatiempos</a></li>
+            <li><a href="#Mis lugares favoritos">Mis lugares favoritos</a></li>
+            <li><a href="#Mis gustos mucicales">Mis gustos mucicales</a></li>
+            <li><a href="#Mi artista favorito">Mi artista favorito</a></li>
+            <li><a href="#Mi podcast">Mi podcast</a></li>
+
+
+
+ </ul>
+
+
+
+
+
+
+
+
+<section id="¿Quien soy?">
+
+
+  <div style="background-color: #7fc9b1; padding: 20px;">
+    <h3 style="font-family: 'Verdana', sans-serif; text-align: center;">¿Quien Soy?</h3>
+    <p style="font-family: 'Georgia', serif;">Mi nombre es Bruno Aaron Rojas R. Soy un chico de 15 años, tranquilo y ambivertido (soy reservado y me gusta la soledad pero a su vez soy sociable)Disfruto mucho estar con mis seres queridos y conocer gente nueva que sea amable y que compartamos algo en comun. Mis metas son poder cursar una licenciatura en una prestigiosa universidad y poder tener una vida serena y tranquila. </p>
+<p style="font-family: 'Georgia', serif;">Actualmente estudio en el Colegio de Estudios Científicos y Tecnológicos del Estado de Hidalgo (CECYTEH), estoy cursando el segundo semestre, esforzándome todos los días para poder mejorar día con día, aprendiendo a través de mis errores y aceptando que son parte del progreso.</p>
+  </div>
+
+</section>
+
+
+<section id="Mis Pasatiempos">
+
+  <div style="background-color: #7fc9b1; padding: 20px;">
+    <h3 style="font-family: 'Verdana', sans-serif; text-align: center;">Mis Pasatiempos</h3>
+    <p style="font-family: 'Georgia', serif;">Cuando tengo tiempo libre,mayormente disfruto hacer varias cosas que me mantienen activo y entretenido ya que es muy importante mantenerse continuamente ocupado para evitar la vaguería. Mis  pasatiempos favoritos son los siguientes:</p>
+    <p style="font-family: 'Georgia', serif;"> <b>-Tocar la guitarra:</b> En mi tiempo libre me encanta tocar la guitarra electrica, practicar ritmos, realizar covers y en especial casi todos los dias intento crear una cancion propia ya que siempre quise tener mi propia banda.</p><img src="C:\Users\Carmelita2\Desktop\michiso.png" alt="michiso" width="200" height="200">
+    <p style="font-family: 'Georgia', serif;"> <b>-Escribir mis pensamientos:</b> Cuando tenemos tiempo libre pensamos tanto cosas buenas como cosas malas, yo en lo personal escribo mis pensamientos para mantenerme ocupado y desahogarme si me encuentro mal.</p><img src="https://img1.picmix.com/output/stamp/normal/1/0/0/8/2048001_4ca53.png" alt="Me gustan los gatos" width="200" height="200">
+
+    <p style="font-family: 'Georgia', serif;"> <b>-Escuchar musica:</b> Escucho musica todos los dias, tanto que ahora concidero que mi vida "depende" de la musica y mas si tengo tiempo libre ya que como he mencionado, cuando no hago nada sobrepienso y reflexiono sobre mi vida, al escuchar musica, me relaja y me acompaña en esos momentos.</p><img src="C:\Users\Carmelita2\Downloads\catt.png" alt="Me gustan los gatos" width="200" height="200">
+
+</section>
+
+
+<section id="Mis lugares favoritos">
+
+  </div>
+
+  <div style="background-color: #ff97; padding: 20px;">
+    <h3 style="font-family: 'Verdana', sans-serif; text-align: center;">Mis Lugares Favoritos</h3>
+    <p style="font-family: 'Georgia', serif;">Por más que parezca extraño, no tengo un lugar favorito como tal. Si bien disfruto estar en mi escuela o en mi hogar, no los considero como mis lugares favoritos. En cambio, <b>encuentro serenidad y conexión con la naturaleza en una colina en medio de un campo.</b> Esta colina, con su bella vista, en especial en los atardeceres y amaneceres, me ofrece un refugio tranquilo lejos de mis problemas. El aire fresco y la sensación de libertad que experimento mientras estoy allí es incomparable con otros lugares que he visitado. Es un lugar donde puedo relajarme, reflexionar y sentirme en armonía con la naturaleza.</p>
+
+ <p style="font-family: 'Georgia', serif;">Cuando llegas a la cima de la colina, te encuentras con una vista impresionante que se extiende hasta donde alcanza la vista. El cielo se mezcla con el horizonte en una combinación de colores cálidos y suaves, creando una especie de pintura celestial que cambia constantemente a lo largo del día. Los atardeceres son como un espectáculo de fuegos artificiales con sus colores vibrantes y reflejos dorados, mientras que los amaneceres llenan el cielo de tonos rosados y naranjas que te dan la bienvenida a un nuevo día lleno de oportunidades. </p>
+
+
+    <p style="font-family: 'Georgia', serif;">Creo que al estar en dicha colina, con tus seres queridos o solo, inspira una sensacion de tranquilidad al mirar el orizonte, permitiendonos reflexionar y dejar de lado nuestros problemas.Es como si me conectara coon la naturaleza y me "oblige" a reflexionar, es una sensacion indescriptible. </p>
+
+ </div>
+ 
+</section>
+
+<section id="Mis gustos mucicales">
+ 
+  <div style="background-color: #ff97; padding: 20px;">
+    <h3 style="font-family: 'Verdana', sans-serif; text-align: center;">Mis gustos musicales </h3>
+    <p style="font-family: 'Georgia', serif;"> Mis gustos musicales, dependiendo de a quien le pregunte, son un poco estrafalarios. Mis gustos mucicales se centran en miltiples generos musicales, siendo mis favoritos los siguientes:
+    <p style="font-family: 'Georgia', serif;"> <b> -Rock: </b> Es uno de mis generos favoritos ya que junto a sus sub-generos, crean un ritmo que puede ser energetico o hasta relajado, bandas como <b>Pink Floyd, Nirvana, Artic Monkeys, Marilyn Manson</b> y <b>Deftones</b> son de mis bandas favoritas de ese genero. 
+ <center>
+<img src="https://i.scdn.co/image/ab67616d0000b273e2cb35303223bd06095de50d" alt="Me gustan ese album" width="200" height="200">
+  </center>
+
+    <p style="font-family: 'Georgia', serif;"> <b> -Metal: </b> Aunque algunas canciones en mi opinion son de cierta manera "ruidosas" es uno de mis generos musicales favoritos, bandas como <b>Slipknot, Rammstein</b> y <b>System of a Down</b> son de mis bandas favoritas.
+ <center>
+<img src="https://i.scdn.co/image/ab67616d0000b2732dc63e977bd5101072adcef6" alt="Me gustan ese album" width="200" height="200">
+  </center>
+
+  <p style="font-family: 'Georgia', serif;"> <b> -Indie: </b> La mayoria de musica de ese genero es relagante, artistas como <b>Tame Impala, Steve lacy </b> y <b> MGMT </b> son de mis artistas favoritos de ese genero.
+  <center>
+<img src="https://i.pinimg.com/564x/20/2b/40/202b40fc6cdfb26825bb82559bb63cb7.jpg" alt="Me gustan ese album" width="200" height="200">
+  </center>
+
+</section>
+
+
+
+
+<section id="Mi artista favorito">
+
+  <p style="font-family: 'Georgia', serif;"> Aunque los artistas anteriores me gustan mucho, devo decir que hasta el momento, <a href="https://www.youtube.com/channel/UCqnMk5GA1spXDiHYFcPN-eA" target="_blank">Mac DeMarco</a>  es mi artista favorito.Su musica tiene ritmos incomparables que combina una energia vibrante con una sensacion de relajacion en una sola cancion.Sus canciones me hacen reflexionar de manera muy profunda y de alguna manera me ciento identificado con alunas canciones. La forma en que Mac DeMarco aborda diferentes temas profundos  y emociones fuertes a través de su música es verdaderamente inspirador y ha dejado una marca significativa en mi.
+
+
+<figure>
+  <img src="https://i.scdn.co/image/ab67616d00001e02f8515e26f724792151663214" alt="mi artista favorito" width="500" height="500">
+>
+  <figcaption><span style="font-size: smaller;">Puedes encontarlo en:</span> <a href="https://youtu.be/MkbozNF7owI?si=E95DqKMY-IwM9UaB" target="_blank">https://youtu.be/MkbozNF7owI?si=E95DqKMY-IwM9UaB</a>
+</figure>
+</div>
+
+</section>
+
+
+<section id="Mi podcast">
+
+ <div style="background-color: #7fc9b1; padding: 20px;">
+    <h3 style="font-family: 'Verdana', sans-serif; text-align: center;">Nuestro podcast</h3>
+    <p style="font-family: 'Georgia', serif;">Mi equipo y yo realizamos un podcast para nuestro proyecto de aula escuela y comunidad (PAEC) titulado "rainwater collection". Escuchalo en: <a href="https://vm.tiktok.com/ZMMxUB7WL/" target="_blank">https://vm.tiktok.com/ZMMxUB7WL</a>
+</p>
+
+
+<video width="300" height="200" controls>
+        <source src="C:\Users\Carmelita2\Downloads\WhatsApp Video 2024-04-08 at 10.52.08 PM.mp4" type="video/mp4">
+    </video>
+
+
+
+  </div>
+
+
+</section>
+
+
+
+<footer>
+ <div style="background-color: #333; padding: 20px;">
+    <h3 style="font-family: 'Verdana', sans-serif; text-align: center; color: #d1d1d1;">informacion personal:</h3>
+    <p style="font-family: 'Georgia', serif; color: #d1d1d1;">Alumno:Bruno Aaron Rojas Ramirez</p>
+    <p style="font-family: 'Georgia', serif; color: #d1d1d1;">CECYTEH plantel Tizayuca</p>
+    <p style="font-family: 'Georgia', serif; color: #d1d1d1;">2do semestre</p>
+    <p style="font-family: 'Georgia', serif; color: #d1d1d1;">Grupo:D</p>
+    <p style="font-family: 'Georgia', serif; color: #d1d1d1;">Docente:Rafael S. J.</p>
+    <p style="font-family: 'Georgia', serif; color: #d1d1d1;">Materia:Cultura Digital II</p>
+
+  </div>
+</footer>
+
+
+
+
+
+
+</body>
+</html>
